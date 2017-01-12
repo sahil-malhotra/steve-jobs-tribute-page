@@ -1,0 +1,60 @@
+.first-div {
+  background-color:  black;
+  padding: 10px;
+}
+
+.second-div {
+ padding-top: 20px;
+}
+
+.main-heading {
+  font-family:  Helvetica;
+  color: white;
+}
+
+.sub-heading {
+  font-family: Helvetica;
+  color: white;
+}
+
+.quote {
+  padding-top: 150px;
+  padding-bottom: 150px;
+  color: black;
+}
+
+.timeline {
+  background-color: black;
+  padding: 10px;
+}
+
+.timeline-text {
+  color: white;
+  font-family: Helvetica;
+}
+
+.year {
+  border-style: solid;
+  border-width: 3px;
+  font-family:  Helvetica;
+  color: black;
+  padding: 5px;
+}
+
+.work {
+  padding: 8px;
+  color: black;
+  font-family: Helvetica;
+}
+
+.end-note {
+  background-color: black;
+  padding: 10px;
+  color: white;
+  font-family: Helvetica;
+}
+
+#responsive-image {  
+  width: 100%;  
+  height: auto; 
+}
